@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<meta http-equiv="Content-type" content="text/html;
+charset=iso-8859-2 /> 
+<meta http-equiv="Content-Language"content=pl />
+<meta name="Autor" content="HYUNDAI"/>
+<meta name=" content="Pajaczek NxG STD v5,4,0"/>
+<TITLE> STRONA TESTOWA WSM </TITLE>
+</HEAD>
+<BODY>
+HYUNDAI
+</BODY>
+</HTML>
